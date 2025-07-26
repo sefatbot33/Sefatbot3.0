@@ -6,7 +6,7 @@ module.exports.config = {
   name: "photoedit",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Sefat Bot",
+  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
   description: "Edit photo when replied with 'Edit'",
   commandCategory: "media",
   usages: "reply with 'Edit' to an image",
